@@ -17,4 +17,5 @@
 10.28.5.47 fossil.ezremit.com 
 192.168.0.35 qms.ifastfinancial.com
 172.31.36.39 igb-ndbs-bo-uat.ifast-aws.com
-172.31.36.80 igb-dtb-uat.ifast-aws.com
+172.30.32.56 igb-dpb-staging.ifast-aws.com
+172.30.32.37 igb-ndbs-bo-staging.ifast-aws.com
